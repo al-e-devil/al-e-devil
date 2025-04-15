@@ -37,9 +37,9 @@ Alessandro</a></h1>
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/al-e-devil?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/al-e-devil">
+    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/al-e-dev">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/al-e-devil">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/al-e-dev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
    </div>
 
