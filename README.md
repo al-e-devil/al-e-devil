@@ -1,3 +1,5 @@
+<img align="center" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Alexito%20-%20成功へ&fontSize=20&fontAlignY=22&animation=fadeIn&desc=Full%20Stack%20Developer%20&descAlignY=33&descSize=10">
+
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Alessandro</a></h1>
 <h3 align="center">A passionate Mobile App developer from Pune Peru &#127470;&#127475</h3>
